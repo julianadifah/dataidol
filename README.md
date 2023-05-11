@@ -1,1 +1,1 @@
-# dataidol
+# diabet_prediction
